@@ -1,0 +1,6 @@
+- Python 3.x
+- PyTorch 1.8+ (with CUDA support if using a GPU)
+- torchvision
+- numpy
+- tqdm
+- Pillow (PIL)
